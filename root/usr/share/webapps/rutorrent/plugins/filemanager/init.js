@@ -14,8 +14,8 @@ theWebUI.fManager = {
 
 
 	paths: [],
-	curpath: '/',
-	workpath: '/',
+	curpath: '/downloads',
+	workpath: '/downloads',
 	settings: {	timef: '%d-%M-%y %h:%m:%s',
 			permf: 1,
 			histpath: 5,
